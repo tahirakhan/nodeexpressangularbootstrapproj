@@ -1,0 +1,21 @@
+{
+  "name": "WebProject",
+  "version": "1.0",
+  "authors": [
+    "tahirakhan <tahir.ali@vroozi.com>"
+  ],
+  "description": "Simple Web Application",
+  "main": "app.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "VROOZI",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
